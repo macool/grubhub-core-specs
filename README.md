@@ -1,4 +1,4 @@
-# grubhub core specs
+# protractor test specs
 
 ## How to
 
