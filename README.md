@@ -2,6 +2,13 @@
 
 ## How to
 
+### Install gulp
+```
+  npm install -g gulp
+```
+
+### Run the specs
+
 1. Start the Selenium server:
   ```
 gulp webdriver
@@ -15,6 +22,7 @@ gulp webdriver
   ```
 gulp
   ```
+  or
   ```
 ./node_modules/.bin/protractor protractor.conf.js
   ```
